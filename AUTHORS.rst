@@ -5,6 +5,7 @@ Development Lead
 ----------------
 
 * Luke Smith <lsmith@zenoscave.com>
+* Zenostrash <luke.smith112358@gmail.com>
 
 Contributors
 ------------
